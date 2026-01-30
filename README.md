@@ -27,5 +27,6 @@ Used co-pilot as usual to generate documentation for the task manager created in
 
 ![task manager image](images/task_manager.png)
 
-### Added unittests for the task manager
+### Added unittests for the task manager (like i always do)
 
+![unittests task manager](images/unittests_task_manager.png)
