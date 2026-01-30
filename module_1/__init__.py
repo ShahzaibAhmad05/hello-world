@@ -9,4 +9,4 @@ Components:
 """
 
 __version__ = "1.0.0"
-__author__ = "SEECS, NUST"
+__author__ = "Shahzaib Ahmad"
