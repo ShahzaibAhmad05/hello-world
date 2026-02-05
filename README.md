@@ -61,3 +61,46 @@ Javascript - Uses async/await and throws errors for validation failures. Uses re
 
 Typescript - Uses type annotations and interfaces, uses type safety instead of tuples and for error handling, it should throw an error or return a `Result` type.
 
+- Python generators? js question, Docker?? optimizing SQL queries??
+
+Python generators: Functions using yield that produce values lazily one at a time, saving memory; use for large datasets or infinite sequences.
+
+var, let, const in JavaScript: var is function-scoped and hoisted, let is block-scoped and reassignable, const is block-scoped and immutable reference.
+
+Docker purpose: Containerization platform that packages applications with dependencies into isolated containers using OS-level virtualization for consistent deployment.
+
+SQL query optimization: Use indexes, avoid SELECT *, limit result sets, optimize JOINs, partition tables, use query execution plans, and cache frequently accessed data.
+
+- Best way to implement caching?
+
+For the user registration system, the best caching approach would be:
+
+Cache user lookups by email and ID (most frequent operations)
+Use TTL (Time-To-Live) to prevent stale data
+Implement cache-aside pattern - check cache first, then database
+LRU eviction for memory management
+Cache invalidation on user updates/deletions
+Thread-safe operations for concurrent access
+
+
+- How do I test caching?
+
+To test caching behavior effectively, you should:
+
+Test cache hits and misses - Verify data is cached on first access and retrieved from cache on subsequent calls
+Test TTL expiration - Ensure cached data expires after the configured time
+Test cache invalidation - Confirm cache clears when data is updated/deleted
+Test LRU eviction - Verify old entries are evicted when cache is full
+Test thread safety - Ensure concurrent access works correctly
+Measure cache performance - Verify hit rate and response time improvements
+Test cache statistics - Validate metrics are tracked correctly
+
+
+- For the full-stack lab, the tasks were quite interesting. I have put that system in `module_2/task_management_system/`
+
+- As for the questions, I have answered them in REFLECTION.md in the same directory.
+
+---
+
+## Module 3
+

@@ -1,0 +1,8 @@
+# User Registration System Dependencies
+
+# JWT token generation and verification
+PyJWT>=2.8.0
+
+# For testing
+pytest>=7.4.0
+pytest-cov>=4.1.0
