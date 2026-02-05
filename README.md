@@ -108,4 +108,14 @@ Test cache statistics - Validate metrics are tracked correctly
 
 ![slash doc usage image](images/slash_doc_example.png)
 
+- For exercise 4, I used GPT-4.1 and GPT-4o, there responses were very brief and less detailed compared to the usual GPT-5.2 or Claude-Sonnet-4.5 I use. 
+
+- Comparing those two with each other, the documentation GPT-4o prepared was much more detailed than the code file that was created by GPT-4.1
+
+- Their responses in the VSCode chat were quite similar though.
+
+- Completed the lab, now moving on to unit 2!
+
+### Unit 2
+
 - 
