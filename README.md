@@ -118,4 +118,26 @@ Test cache statistics - Validate metrics are tracked correctly
 
 ### Unit 2
 
+- Refining a prompt, (prompt engineering??), that is essentially what I do all the time, everyday.
+
+```bash
+# Refined prompt
+I need a Python function to sort a list of 100,000 Product dictionaries for an e-commerce app. The input dictionaries contain name, price, and stock_count. The function must be highly performant (O(n log n)). Please implement a custom sort key that prioritizes in-stock items first, then orders by price (low-to-high), and finally by name as a tie-breaker. Return the result as a new list.
+```
+
+- Zero-shot and few-shot approaches, yes, the results were quite different for the few-shot approach. This indicated that context matters for autocomplete.
+
+- Prompt Engineering, yes again. This is the prompt I typed:
+
+```bash
+Act as a Senior Backend Engineer and create a secure Node.js Express registration endpoint (POST /api/v1/register) using Mongoose that validates a unique email, a 3–20 character alphanumeric username, and a strong 12+ character password containing uppercase letters, numbers, and symbols using express-validator. The logic must check for existing users, hash the password using bcrypt with 12 salt rounds, and save a new user document with role: 'user' and is_verified: false inside a try-catch block. Ensure the response is returned as JSON with a 201 status and the user ID on success (without the password hash), a 400 status with specific error messages for validation or duplication failures, and a 500 status with a generic message for internal errors to prevent stack trace leaks.
+```
+
+- For the lab, everything is documented and done in `module_3/lab/`
+
+- Module 3 complete!
+
+
+## Module 4
+
 - 
