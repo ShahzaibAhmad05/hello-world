@@ -106,6 +106,6 @@ Test cache statistics - Validate metrics are tracked correctly
 
 - Learned and used some more slash commands. `/doc` is really useful for doing the tiring work of adding documentation, however, the doc LLMs generate still has to be reviewed by a human.
 
-![slash doc usage image]('images/slash_doc_example.png')
+![slash doc usage image](images/slash_doc_example.png)
 
 - 
