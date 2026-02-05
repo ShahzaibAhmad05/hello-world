@@ -53,3 +53,11 @@ Use of different modes for different tasks is quite interesting plus useful. I p
 
 However, the "edit" mode is actually useful when we already have the implementation and just need some quick edits for improvements, and I would use that mode from now on. 
 
+- **Reflection on exercise 2 of unit 2**
+
+Python - Uses a tuple that returns the success message, regex for email validation. It could raise exceptions in case of errors.
+
+Javascript - Uses async/await and throws errors for validation failures. Uses regex patterns, and try/catch blocks to handle errors.
+
+Typescript - Uses type annotations and interfaces, uses type safety instead of tuples and for error handling, it should throw an error or return a `Result` type.
+
