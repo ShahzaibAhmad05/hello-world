@@ -153,4 +153,21 @@ Act as a Senior Backend Engineer and create a secure Node.js Express registratio
 
 ## Module 5 
 
-- 
+- This module seems to be quite easy-going
+
+- Generating test cases with copilot and then reveiwing the generated tests is quite the natural thing to do\
+
+![shopping cart generating agent](images/shopping_cart.png)
+
+- The lab is done and completed. Module 5 complete!
+
+
+---
+
+## Module 6
+
+- This module involves the capstone project.
+
+- I have decided to build a markdown-to-html converter for this capstone project. 
+
+- The project can be viewed [here](https://github.com/ShahzaibAhmad05/md-to-html)
