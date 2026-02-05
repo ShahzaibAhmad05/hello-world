@@ -170,4 +170,14 @@ Act as a Senior Backend Engineer and create a secure Node.js Express registratio
 
 - I have decided to build a markdown-to-html converter for this capstone project. 
 
-- The project can be viewed [here](https://github.com/ShahzaibAhmad05/md-to-html)
+- The project can be viewed [here](https://github.com/ShahzaibAhmad05/md-to-html-converter)
+
+---
+
+# My Experience
+
+- I have documented everything I learned throughout my training in the README above. However:
+
+- This was a GREAT learning experience. I learned a lot on how I can effectively use copilot in my workflow, and will be using the techniques I learned from now onwards.
+
+- As for the productivity increase, I would say my coding efficiency has increased by about 20% to 30% immediately after this training, even though I had experience using tools like GitHub copilot, and Cursor AI well before stumbling on this training.
