@@ -137,12 +137,20 @@ Act as a Senior Backend Engineer and create a secure Node.js Express registratio
 
 - Module 3 complete!
 
+---
 
 ## Module 4
 
 - Using @agent after pressing `Ctrl + I` is pretty fast compared to opening the side chat and typing the task there.
 
+![at agent image](images/at_agent.png)
+
 - Custom Instructions? that is something new to me. 
 
 - I realized that Custom instructions are quite effective, and they save a lot of time. I'll be using them in my workflows from now onwards.
 
+- Module 4 complete!
+
+## Module 5 
+
+- 
